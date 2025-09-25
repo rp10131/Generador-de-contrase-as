@@ -1,6 +1,7 @@
 # Generador de contraseñas
 
-Este programa genera contraseñas de al menos seis caracteres. Hay tres versiones, aunque la diferencia es mínima.
+Este programa puede generar contraseñas de al menos 6 caracteres. Puede hacer múltiples contraseñas a la vez también.
+Además, se han agregado condicionales para evitar ciertos errores a la hora de usar algunas variables.
 
 
-12/03/25
+24/09/25
